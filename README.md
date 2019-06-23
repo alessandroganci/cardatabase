@@ -8,5 +8,5 @@ To start the application:
 
 You can also use Eclipse to run and debug the project.
 
-The front end React application is at: https://github.com/adamquan/carfront
+The front end React application is at: https://github.com/alessandroganci/carfront
 
